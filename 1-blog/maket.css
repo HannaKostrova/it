@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2? Family= Fira+Sans & Family= Montserrat:ital,wght@0,500;1,900 &семья= Открыть+Без &семья = Робото и display=swap');
+
+h1, h2{
+    color: #050038;
+    font-size: 48px;
+    line-height: 56px;
+    font-weight: 400;
+}
+.text1{
+    color: rgba(5, 0, 56, 0.6);
+
+}
+.hreff{
+    color:#4262FF;
+    font-size: 18px;
+    font-weight: 400;
+}
+.text2{
+    color: #050038;
+}
+p{
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;  
+}
+
