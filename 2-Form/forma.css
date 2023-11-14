@@ -1,0 +1,36 @@
+
+
+body{
+    background-color: #F39494;
+}
+div{
+    background-color: #FFFEFE;
+    width: 50%;
+}
+h1{
+    font-size: 36px;
+}
+.text{
+    font-size: 18px;
+    color: #666666;
+}
+p{
+    font-size: 16px;
+    color:#333333;
+}
+input{
+    background-color:#F5F5F5;
+}
+button{
+    color: #FFFFFF;
+    background-color: #089FE0;
+    font-size: 18px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #918c8c;
+}
+label{
+    font-size: 14px;
+    color: #666666;
+}
