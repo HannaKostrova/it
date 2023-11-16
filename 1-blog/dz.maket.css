@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Montserrat:ital,wght@0,500;1,900&family=Open+Sans&family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, #374151 100%, #111827 100%);
+}
+
+ul li a, .text{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+    text-align: center;
+    list-style: none;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Roboto;
+    
+}
+
+input{
+   background-color: rgba(31, 41, 55, 0.6); 
+   color: #FFFFFF;
+   font-size: 16px;
+   font-family: Roboto;
+   float: right;
+   border-radius: 100px;
+   padding: 9px 128px 12px 49px;
+}
+h1{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: Roboto;
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+}
+
+nav{
+    margin: 0px 0px 80px 0px;
+}
+img{
+    margin: 0px 272px 69px 272px;
+    
+}
+
+.small{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: Roboto;
+    text-align: center;
+    margin: 0px 0px 14px 0px;
+    
+}
+.text{
+    margin: 0px 365px 0px 367px;
+    line-height: 30px;text-align: left;
+    
+}
+
+.text1{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: Roboto;
+    text-align: left;
+    margin: 0px 365px 0px 367px;
+    line-height: 32px;
+    
+}
+.text4{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+
+}
+.navigation a{
+    margin: 72px 0px 0px 180px;
+   
+}
+.small2{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: Roboto;
+    text-align: center;
+    margin: 0px 0px 28px 0px;
+}
+.text2{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+    text-align: left;
+    margin: 0px 365px 103px 367px;
+    line-height: 30px;
+    
+}
+.text3{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+    text-align: center;
+    margin: 0px 0px 77px 0px;
+}
